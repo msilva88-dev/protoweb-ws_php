@@ -52,6 +52,8 @@
 
 declare(strict_types=1);
 
+require_once __DIR__ . '/vendor/autoload.php';
+
 $scriptName = basename($argv[1] ?? "");
 
 // Append ".php" if no extension is given
