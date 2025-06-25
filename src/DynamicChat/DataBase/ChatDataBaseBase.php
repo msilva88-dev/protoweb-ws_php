@@ -38,6 +38,8 @@ declare(strict_types=1);
 
 namespace ProtoWeb\DynamicChat\DataBase;
 
+use ProtoWeb\DynamicChat\Library\Extension;
+
 /**
  * Class ChatDataBaseBase
  *
