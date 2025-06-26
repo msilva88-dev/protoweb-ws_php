@@ -1,0 +1,35 @@
+{
+    "name": "msilva88-dev/protoweb-ws_php",
+    "description": "WebSocket relay for ProtoWeb Dynamic Chat using websocketd. Integrates with a CodeIgniter 3 backend.",
+    "type": "project",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Marcio Silva",
+            "email": "msilva88@protonmail.com",
+            "homepage": "https://bitbucket.org/msilva88-dev/protoweb-ws_php",
+            "role": "Developer"
+        },
+        {
+            "name": "Marcio Silva",
+            "email": "msilva88@protonmail.com",
+            "homepage": "https://github.com/msilva88-dev/protoweb-ws_php",
+            "role": "Developer"
+        },
+        {
+            "name": "Marcio Silva",
+            "email": "msilva88@protonmail.com",
+            "homepage": "https://gitlab.com/msilva88-dev-grp/websites/protoweb-ws_php",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "https://bitbucket.org/msilva88-dev/protoweb-ws_php",
+    "autoload": {
+        "psr-4": {
+            "ProtoWeb\\": "src/"
+        }
+    },
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
